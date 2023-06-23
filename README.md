@@ -1,5 +1,5 @@
 # odin-recipes
 Starting Project Recipes - First modification to the README file.
-Git commit from VS Code.
-Let's try again from Terminal.
-Test New
+Figured out how to use Git and GitHub together. 
+Completed Project Recipes till Iteration 3
+Iteration 4 left
